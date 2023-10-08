@@ -67,6 +67,7 @@
 - [Ashley Mical](https://github.com/micamash)
 - [Biswajit Mishra](https://github.com/cxbiswajit)
 - [Mohith N](https://github.com/Mhith)
+- [Nikolai](https://github.com/SourceSurfer)
 - [Anubhav Tekriwal](https://github.com/Anubhav099)
 - [SHIVA NC](https://github.com/ShivaNagachander)
 - [Osayeme O](https://github.com/Osayeme)
